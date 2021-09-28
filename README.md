@@ -1,4 +1,4 @@
-## Olar! Eu sou a QAmilla Farid 
+## Olar! Eu sou a QAmilla Farid  <img height="180em" src="https://pm1.narvii.com/6482/153c248091929a35ab39a49e8dce30c49666a97a_128.jpg" style="width:42px;height:42px;"/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillafarid&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -7,7 +7,7 @@
   <img align="center" alt="Milla-Ruby" height="30" width="40" src="https://www.svgrepo.com/show/349494/ruby.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://www.svgrepo.com/show/232655/capybara.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Milla-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202109/480796_LrvNVYH2.png">
 </div>
   
   ##
